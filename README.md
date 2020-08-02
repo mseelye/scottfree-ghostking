@@ -16,7 +16,7 @@ https://github.com/mseelye/scottfree-commodore64
 # Wrapper
 Wrapped release by Mark Seelye.  
 
-Jason did such a great job with this game, I think it deserved a packaged release.  I converted the great cover image from the Game into a koala that could be displayed on the c64 and thr c128. I also converted the docs for the game that are originally found in a pdf on the office Ghost King site above.   
+Jason did such a great job with this game, I think it deserved a packaged release.  I converted the great cover image from the Game into a koala that could be displayed on the c64 and thr c128. I also converted the docs for the game that are originally found in a pdf on the official Ghost King site above.   
 
 ![Ghost King](/images/ghostkingc64.gif)
 
