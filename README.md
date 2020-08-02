@@ -7,6 +7,8 @@ GHOST KING is the first entry in the fictitious Scott Adams Literary Adventure D
 
 https://ghostking.netlify.app/  
 
+![Ghost King](/ghostking-cover.png)
+
 # ScottFree64 / ScottFree64
 This uses the ScottFree and ScottFree
 https://github.com/mseelye/scottfree-commodore64
