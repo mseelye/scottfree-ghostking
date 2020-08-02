@@ -7,7 +7,7 @@ GHOST KING is the first entry in the fictitious Scott Adams Literary Adventure D
 
 https://ghostking.netlify.app/  
 
-![Ghost King](/ghostking-cover.png)
+![Ghost King](/images/ghostking-cover.png)
 
 # ScottFree64 / ScottFree64
 This uses the ScottFree and ScottFree
@@ -18,7 +18,7 @@ Wrapped release by Mark Seelye.
 
 Jason did such a great job with this game, I think it deserved a packaged release.  I converted the great cover image from the Game into a koala that could be displayed on the c64 and thr c128. I also converted the docs for the game that are originally found in a pdf on the office Ghost King site above.   
 
-![Ghost King](/ghostkingc64.gif)
+![Ghost King](/images/ghostkingc64.gif)
 
 # To play:  
 Install and use VICE, or transfer the d64 files to actual disks and play on your actual Commodores!
